@@ -17,7 +17,7 @@ p {
   color: #676767;
 } */
 .frame {
-  width: 90%;
+  width: 95%;
   margin: 40px auto;
   text-align: center;
 }
@@ -25,11 +25,11 @@ button {
   margin: 20px;
 }
 .custom-btn {
-  width: 20vh;
+  width: 40vh;
   height: 40px;
   color: #fff;
   border-radius: 2vh;
-  padding: 10px 25px;
+  padding: 10px 50px;
   font-family: 'Lato', sans-serif;
   font-weight: 500;
   background: transparent;
@@ -45,8 +45,8 @@ button {
 
 /* 1 */
 .btn-1 {
-  background: #0dd1ae;
-  background: linear-gradient(0deg, #0dd1ae 0%, #0dd1ae 100%);
+  background: #FD4659;
+  background: linear-gradient(0deg, #FD4659 0%, #FD4659 100%);
   border: none;
   padding: 0px;
 }
